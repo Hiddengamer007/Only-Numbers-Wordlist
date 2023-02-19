@@ -1,1 +1,3 @@
-This Project has multiple Wordlists that only contain numbers 
+Download the Numberlist Generator python file.
+
+Run the python file and follow the instructions.
