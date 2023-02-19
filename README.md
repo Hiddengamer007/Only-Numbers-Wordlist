@@ -1,2 +1,1 @@
-# Only-Numbers-Wordlist
-A only numbers wordlist
+This Project has multiple Wordlists that only contain numbers 
